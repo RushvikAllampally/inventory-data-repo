@@ -18,6 +18,17 @@
       "displayUnit": "g",
       "cost": 12500,
       "at": "2026-08-02T06:30:00.000Z"
+    },
+    {
+      "id": "msbcyjlwaeu87",
+      "type": "usage",
+      "product": "2 cylinder, 4 oil, 10kg maida, 5kg bellam",
+      "name": "2 cylinder, 4 oil, 10kg maida, 5kg bellam",
+      "qty": 1,
+      "unit": "g",
+      "displayQty": 1,
+      "displayUnit": "g",
+      "at": "2026-08-02T05:26:50.564Z"
     }
   ],
   "months": {}
