@@ -9,6 +9,11 @@
       "name": "Flour",
       "unit": "g",
       "threshold": 0
+    },
+    "500ml and 750ml boxes": {
+      "name": "500ml and 750ml boxes",
+      "unit": "pcs",
+      "threshold": 0
     }
   },
   "transactions": [
@@ -23,6 +28,18 @@
       "displayUnit": "g",
       "cost": 12500,
       "at": "2026-08-02T06:30:00.000Z"
+    },
+    {
+      "id": "msbku534phbwh",
+      "type": "purchase",
+      "product": "500ml and 750ml boxes",
+      "name": "500ml and 750ml boxes",
+      "qty": 100,
+      "unit": "pcs",
+      "displayQty": 100,
+      "displayUnit": "pcs",
+      "cost": 775,
+      "at": "2026-08-02T09:07:22.048Z"
     }
   ],
   "months": {}
