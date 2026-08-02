@@ -35,6 +35,17 @@
       "displayUnit": "kg",
       "cost": 30,
       "at": "2026-08-02T06:33:07.524Z"
+    },
+    {
+      "id": "msbfg73g6a72h",
+      "type": "usage",
+      "product": "flour",
+      "name": "Flour",
+      "qty": 300,
+      "unit": "g",
+      "displayQty": 300,
+      "displayUnit": "g",
+      "at": "2026-08-02T06:36:33.388Z"
     }
   ],
   "months": {}
