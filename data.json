@@ -35,18 +35,6 @@
       "displayUnit": "kg",
       "cost": 30,
       "at": "2026-08-02T06:33:07.524Z"
-    },
-    {
-      "id": "msbfl9fvk1mlh",
-      "type": "purchase",
-      "product": "flour",
-      "name": "Flour",
-      "qty": 2000,
-      "unit": "g",
-      "displayQty": 2,
-      "displayUnit": "kg",
-      "cost": 60,
-      "at": "2026-08-02T06:40:29.707Z"
     }
   ],
   "months": {}
