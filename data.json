@@ -23,6 +23,18 @@
       "displayUnit": "g",
       "cost": 12500,
       "at": "2026-08-02T06:30:00.000Z"
+    },
+    {
+      "id": "msbfbs90umcxd",
+      "type": "purchase",
+      "product": "flour",
+      "name": "Flour",
+      "qty": 1000,
+      "unit": "g",
+      "displayQty": 1,
+      "displayUnit": "kg",
+      "cost": 30,
+      "at": "2026-08-02T06:33:07.524Z"
     }
   ],
   "months": {}
