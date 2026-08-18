@@ -14,6 +14,11 @@
       "name": "500ml and 750ml boxes",
       "unit": "pcs",
       "threshold": 0
+    },
+    "rice": {
+      "name": "Rice",
+      "unit": "g",
+      "threshold": 0
     }
   },
   "transactions": [
@@ -40,6 +45,18 @@
       "displayUnit": "pcs",
       "cost": 775,
       "at": "2026-08-02T09:07:22.048Z"
+    },
+    {
+      "id": "msymfbqz6t0z4",
+      "type": "purchase",
+      "product": "rice",
+      "name": "Rice",
+      "qty": 108000,
+      "unit": "g",
+      "displayQty": 108,
+      "displayUnit": "kg",
+      "cost": 1944,
+      "at": "2026-08-18T12:10:32.123Z"
     }
   ],
   "months": {}
