@@ -57,6 +57,18 @@
       "displayUnit": "kg",
       "cost": 1944,
       "at": "2026-08-18T06:30:00.000Z"
+    },
+    {
+      "id": "mt2ynbp1eopt5",
+      "type": "purchase",
+      "product": "rice",
+      "name": "Rice",
+      "qty": 60000,
+      "unit": "g",
+      "displayQty": 60,
+      "displayUnit": "kg",
+      "cost": 1146,
+      "at": "2026-08-21T13:03:45.397Z"
     }
   ],
   "months": {}
